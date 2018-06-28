@@ -1,0 +1,29 @@
+push num32
+push "string and"
+push -12
+push -0
+push 0
+push 1220
+push 00078
+push -00004567
+:error:
+:true:
+:false:
+push :true:
+push :false:
+push :error:
+error
+push error
+add
+sub
+push -1.2
+push 0.0
+push 7.6
+mul
+div
+rem
+neg
+swap
+push 3
+pop
+quit

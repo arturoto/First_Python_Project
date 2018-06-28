@@ -1,0 +1,32 @@
+neg
+:true:
+neg
+:false:
+neg
+:unit:
+neg
+:error:
+neg
+push name2
+neg
+push "cse 305"
+neg
+push 1
+neg
+push -3
+neg
+push 0
+neg
+push 0000
+neg
+push -00
+neg
+push -0
+neg
+push -054320
+neg
+push 2.5
+neg
+2.6
+neg
+quit

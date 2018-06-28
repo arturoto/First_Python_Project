@@ -1,0 +1,4 @@
+push a
+push "oh shit this string "
+bind
+quit
